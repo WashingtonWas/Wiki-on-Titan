@@ -35,11 +35,12 @@ img{
     border: 2px black;
     max-width: 100%;
 }
-
+p{
+    margin: 30px;
+}
 body{
     font-family: "Germania One", system-ui;
     font-size: 20px;
-    margin: 30px;
     padding: 0;
     height: 100%;
     background-image: url(https://img.freepik.com/premium-photo/old-grunge-parchment-paper-texture-background_118047-9289.jpg?w=360);
